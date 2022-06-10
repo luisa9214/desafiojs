@@ -1,0 +1,1 @@
+//Fazer uma funcao que receba um array e retorne os numeros impares desse array sem usar o filter e usando o filter
